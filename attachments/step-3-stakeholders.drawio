@@ -1,0 +1,79 @@
+<mxfile host="Electron" modified="2024-01-08T10:53:10.061Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="1YGBK99dCqCGDovZltJS" version="22.0.0" type="device">
+  <diagram name="Page-1" id="TasnZPE9LCGVjok9gJ6r">
+    <mxGraphModel dx="1710" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aBUF_faCE7cuexW8udsy-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="760" as="sourcePoint" />
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="440" as="sourcePoint" />
+            <mxPoint x="880" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="760" as="sourcePoint" />
+            <mxPoint x="160" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="760" as="sourcePoint" />
+            <mxPoint x="880" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-6" value="Влияние" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-7" value="Интерес" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="797" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-15" value="Тесная работа" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-16" value="Удовлетворение потребностей" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-17" value="Информирование" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="465" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-18" value="Мониторинг" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-19" value="Топ-менеджмент" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="780" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-20" value="Менеджеры" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-21" value="Финотдел" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-22" value="Разработчики" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-23" value="Админы" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-24" value="Юристы" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-25" value="Клиенты" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-28" value="Воркеры" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aBUF_faCE7cuexW8udsy-29" value="Сборщики расходников" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
